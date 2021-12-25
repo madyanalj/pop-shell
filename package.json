@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "local-install": "make local-install"
+  },
+  "dependencies": {
+    "typescript": "~4.3.0"
+  }
+}
